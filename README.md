@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=Welcome!%20&fontSize=90&TextBg=True&animation=fadeIn&fontcolor=ffffff&desc=Hi%20%I'm%20%20Fishphobia&descAlignY=75)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fishphobiagg)](https://github.com/Fishphobiagg/github-readme-stats)
 
 
 - Lee Myung woo👋
