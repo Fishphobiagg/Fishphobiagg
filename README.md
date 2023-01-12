@@ -2,6 +2,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fishphobia)](https://solved.ac/fishphobia/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishphobiagg&show_icons=true&theme=gruvbox)
+
 
 - Lee Myung woo👋
 
