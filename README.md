@@ -4,7 +4,7 @@
 
 ## Lee Myung Woo 😃
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
-
+## Skills
 ---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fishphobia)](https://solved.ac/fishphobia/)
