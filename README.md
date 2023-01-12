@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=500&section=header&text=HI%20&fontSize=90&TextBg=True)
+![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=500&section=header&text=HI%20&fontSize=90&TextBg=True&animation=fadeIn)
 
 
 - 👋 Hi, I’m @Fishphobiagg
