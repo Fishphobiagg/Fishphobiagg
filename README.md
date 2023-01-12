@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=Welcome!%20&fontSize=90&TextBg=True&animation=fadeIn&fontcolor=ffffff&desc=Hi%20%I'm%20%20Fishphobia&descAlignY=75)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fishphobiagg)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=%20Fishphobiagg)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fishphobia)](https://solved.ac/fishphobia/)
 
