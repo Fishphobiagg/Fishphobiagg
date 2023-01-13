@@ -5,8 +5,6 @@
 ## Lee Myung Woo 😃
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fishphobia)](https://solved.ac/fishphobia/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fishphobiagg)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills
@@ -14,6 +12,7 @@
 ![PYTHON](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
 ### Tools
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ---
 
 
