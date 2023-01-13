@@ -5,6 +5,8 @@
 ## Lee Myung Woo 😃
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fishphobia)](https://solved.ac/fishphobia/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fishphobiagg)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Skills
 ### Platforms & Languages
