@@ -6,6 +6,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fishphobia)](https://solved.ac/fishphobia/)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fishphobiagg&show_icons=true&theme=tokyonight)
 
 ## Skills
 ### Platforms & Languages
