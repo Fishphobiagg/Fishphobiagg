@@ -6,10 +6,6 @@
 
 - 📫 How to reach me **dlauddn6211@icloud.com**
 
-
-## Lee Myung Woo 😃
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fishphobiagg&show_icons=true&theme=tokyonight)
-
 ## Skills
 
 ### Platforms & Languages
