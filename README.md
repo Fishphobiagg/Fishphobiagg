@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Myungwoo Lee</h1>
 
-- 🌱 I’m currently learning **Java 11, Java 17, Spring Boot, MySQL, JPA, Querydsl**
+- 🌱 I’m currently learning **Java, Spring Boot, MySQL, JPA, Querydsl**
 
 - 📝 I regularly write articles on **[https://velog.io/@fishphobiagg](https://velog.io/@fishphobiagg)**
 
